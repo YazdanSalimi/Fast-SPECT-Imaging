@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="Fast-SPECT",
+    name="Fast_SPECT",
     #version="0.1.0",
     author="Yazdan Salimi",
     author_email="salimiyazdan@gmail.com",
