@@ -10,6 +10,8 @@ To install this repository, simply run:
 ```bash
 pip install git+https://github.com/YazdanSalimi/Fast-SPECT-Imaging.git
 ```
+An easy alternative is downloading the trained models using this link and the 3DSlicer easy to use module using this link. 
+You need to go to edit>>Application setting>>Modules and simply add the module folder. 
 We welcome any feedback, suggestions, or contributions to improve this project!
 
 for any furtehr question please email me at: salimiyazdan@gmail.com
